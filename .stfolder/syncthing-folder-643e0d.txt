@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 2025-notes
+created: 2025-01-15T07:56:26-03:00

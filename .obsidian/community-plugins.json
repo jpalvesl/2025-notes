@@ -1,4 +1,6 @@
 [
   "obsidian-style-settings",
-  "obsidian-git"
+  "calendar",
+  "obsidian-git",
+  "obsidian-linter"
 ]

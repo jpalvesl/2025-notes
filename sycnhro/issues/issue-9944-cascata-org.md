@@ -121,7 +121,7 @@
 
 [^14]: CV usada no código para persistir o relatorio da Apuracao Detalhada `ApuracaoBalanceteRepository > persisteApuracaoDetalhadaRelatorio`
 
-## V_LANCAMENTOS_PARTEB_RELATORIO ==Nao é usado em lugar nenhum no codigo==
+## V_LANCAMENTOS_PARTEB_RELATORIO ==Usado no reports==
 
 ## V_BLOCO_M010
 - [ ] ECF_BLOCO_M010 ==COMPLEMENTO -> Origem==
@@ -251,8 +251,8 @@
 - V_CTRL_VENCTO_SALDOS_PARTE_B ==ok==
 > O valor é recuperado, não é usada para nada nessa CV, mas vai até a semantics
 > ~~V_SALDOS_RELATORIO_SINTETICO~~
-> /SYN/P_CTRL_VENCIMENTO_DO_PAT_PARTE_B ==Utiliza campo VALOR para adicionar em /TMF/LNCTOBSRA== ==ok==
-> ControleVencimentoSaldosParteBRepositoryImpl ==Possui o campo contaControle em seu TO,  mas pelo que vi, so usamos o codigo e nada mais== ==ok==
+> /SYN/P_CTRL_VENCIMENTO_DO_PAT_PARTE_B ==ok==
+> ControleVencimentoSaldosParteBRepositoryImpl ==ok==
 
 - V_LANCAMENTOS_ELALUR_LACS ==ok==
 > [!warning] Conversar depois
@@ -268,57 +268,57 @@
 > ~~V_ENTRADA_AJUSTES_FISCAIS_IRPJ_CSLL_SALDOS_CONTAS~~ ==ok==
 > ~~V_IMPOSTO_DIFERIDO_DETALHADO~~ ==ok==
 > ~~V_LANCAMENTOS_PARTEB_RELATORIO~~ ==ok==
-> V_LANCAMENTOS_SALDO_PARTEB_RELATORIO ==Utiliza o Codigo Oficial, mas nao o VALOR, e nao consegui achar no codigo onde que eh usada essa CV==
+> V_LANCAMENTOS_SALDO_PARTEB_RELATORIO ==ok==
 > ~~V_VALORES_APUR_BAL_SUS_CALC_AUTO~~ ==ok==
-> ~~/SYN/P_TRANSFERIR_SALDOS_PARTE_B~~
+> ~~/SYN/P_TRANSFERIR_SALDOS_PARTE_B~~ ==ok==
 
 - V_SALDOS_PARTE_B ==ok==
 > Como já temos o TRIBUTO persistido na tabela, acredito que seria bom, melhorar os atributos que sobem nessa CV
 > V_BLOCO_M010 (Não vai precisar de alteração por conta de como estamos fazendo nos SALDOS, não duplicando a linha) ==ok==
-> ~~V_CONFIGURA_VALORES_PARTE_B~~
+> ~~V_CONFIGURA_VALORES_PARTE_B~~ ==ok==
 > V_CONTAS_PARTEB_DISPONIVEIS_CONFIGURAR ==ok==
->~~V_CONTAS_PARTEB_PROV_DISPONIVEIS_CONFIGURAR~~ ==A respeito dos saldos o CODIGO_OFICIAL nao eh utilizado, apenas o tributo== ==ok==
+>~~V_CONTAS_PARTEB_PROV_DISPONIVEIS_CONFIGURAR~~ ==ok==
 >~~V_CTRL_VENCTO_SALDOS_PARTE_B~~ ==ok==
->V_PREJUIZO_OPERACIONAL_AUTO (**Acredito que esteja tudo certo, porque tanto na esquerda quanto na direita ja tratamos os dados pra nao duplicar, entao o JOIN deve acontecer normalmente**)
->V_SALDOS_CONTAS_PARTEB_CONFIGURADAS
->~~V_SALDOS_RELATORIO_SINTETICO~~ (**Talvez faça sentido fazer JOIN tambem pelo codigo e valor, visto que esta presente em ambos os lados, pra evitar duplicacao**)
->/SYN/P_CTRL_VENCIMENTO_DO_PAT_PARTE_B ==Utilizo na procedure o CODIGO_OFICIAL== ==ok==
+>V_PREJUIZO_OPERACIONAL_AUTO ==ok==
+>V_SALDOS_CONTAS_PARTEB_CONFIGURADAS ==ok==
+>~~V_SALDOS_RELATORIO_SINTETICO~~ ==ok==
+>/SYN/P_CTRL_VENCIMENTO_DO_PAT_PARTE_B ==ok==
 
 - V_BLOCO_M010 ==ok==
 > Aparentemente o comportamento esperado aqui é subir os dois tributos, visto que o VALOR só é usado para deduzir o TRIBUTO
 
 
-- V_CONTAS_PARTEB_DISPONIVEIS_CONFIGURAR (**Mapeei o tributo para poder subir apenas o necessario sem duplicacao**)
-> **Sobe o CODIGO_OFICIAL_VALOR, mas não usa pra nada em especifico e não consegui achar uso dessa CV**
+- V_CONTAS_PARTEB_DISPONIVEIS_CONFIGURAR
+> Atualmente é usada a **V_CONTAS_PARTEB_PROV_DISPONIVEIS_CONFIGURAR** Então não vamos alterar esse objeto de banco
 
-- V_PREJUIZO_OPERACIONAL_AUTO ==Ja citado acima==
-> ECF_COMPENSACOES_LALUR_LACS ==CODIGO_OFICIAL utilizada para filtrar==
+- V_PREJUIZO_OPERACIONAL_AUTO ==ok==
+> ECF_COMPENSACOES_LALUR_LACS ==ok==
 
 - V_SALDOS_CONTAS_PARTEB_CONFIGURADAS ==ok==
-> ~~V_BLOCO_M~~
-> ~~V_BLOCO_N~~
+> ~~V_BLOCO_M~~ ==ok==
+> ~~V_BLOCO_N~~ ==ok==
 
-- V_CONFIG_BALANCETE_SUSPENSAO_DETALHADA
+- V_CONFIG_BALANCETE_SUSPENSAO_DETALHADA ==ok==
 > Não sobe em momento algum, mas está presente nos **Input Parameters**
 
-- V_SALDOS_CONTAS_PADRAO_PARTE_B
-> É necessario o CODIGO_OFICIAL, podemos repetir tributo, visto que temos a coluna e é mostrada na listagem do frontend
+- V_SALDOS_CONTAS_PADRAO_PARTE_B ==ok==
+> Refatorada para deduzir o Tributo com base no CODIGO (I ou C) e fazer o JOIN com a nossa nova CV de Conta Controle que possui a coluna tributo
 
-- V_IMPOSTO_DIFERIDO_DETALHADO
+- V_IMPOSTO_DIFERIDO_DETALHADO ==ok==
 > Possui o **Input Parameter**, mas não é projetado em momento algum o CODIGO_OFICIAL
 > ~~V_RELATORIO_ANALITICO_DIFERIDO~~
 > ~~V_CONFIG_BALANCETE_SUSPENSAO_DETALHADA~~
 
-- V_RELATORIO_ANALITICO_DIFERIDO
+- V_RELATORIO_ANALITICO_DIFERIDO ==ok==
 > Possui o **Input Parameter**, e não temos nem a possibilidade de projetar o campo CODIGO_OFICIAL
 
-- V_LANCAMENTOS_PARTEB_RELATORIO
+- V_LANCAMENTOS_PARTEB_RELATORIO ==ok==
 > Temos o CODIGO_OFICIAL, porque é buscado na tabela de CONTA_CONTROLE_PARTE_B
 
-- V_BLOCO_M010
+- V_BLOCO_M010 ==ok==
 > Possui COD_TRIBUTO
 
-- V_CONFIGURA_VALORES_PARTE_B
+- V_CONFIGURA_VALORES_PARTE_B ==ok==
 > Possui COD_TRIBUTO
 
 
@@ -337,30 +337,14 @@
 - V_IDENTIFICACAO_CONTA_PARTE_B ==ok==
 > Nessa CV buscamos apenas a descricao da Conta Controle, dessa forma duplicaria o registro, para isso podemos usar o COD_TRIBUTO presente na fonte dos dados
 
-- V_LANCAMENTOS_PARTEB_RELATORIO
-> ==?==
-> Não sei onde é usado e qual o comportamento esperado na tela, mas é buscado o CODIGO_OFICIAL
+- V_LANCAMENTOS_PARTEB_RELATORIO ==ok==
+> Passa a subir o tributo e usa ele para fazer o JOIN
 
 - V_MOV_SALDO_INICIAL_PARTE_B ==ok==
 > Aqui é separado LALUR e LACS mais a frente então precisamos dos dois tributos separadamente
 
 - CRITICAS_ECF 
-> Como V_CRITICA_SALDO_CONTA_CONTROLE ==ok==, funciona apenas para demonstrar se o ANO < ANO_CRIAÇÃO, acredito que seja interessante adicionar o TRIBUTO para mostrarmos qual o registro que está sendo criticado no ID_FUNCIONAL
+> Como **V_CRITICA_SALDO_CONTA_CONTROLE** ==ok==, funciona apenas para demonstrar se o ANO < ANO_CRIAÇÃO, acredito que seja interessante adicionar o TRIBUTO para mostrarmos qual o registro que está sendo criticado no ID_FUNCIONAL
 
 - /SYN/P_TRANSFERIR_SALDOS_PARTE_B ==ok==
 > Acredito que vai ser necessario adicionar o TRIBUTO no WHERE para poder usar o EXISTS corretamente
-
----
-## CVs para versionar (==Pacote 9944==)
-- [ ] V_CONTAS_CONTROLE_PARTE_B
-- [ ] V_CADASTRO_CALC_AUTOMATICOS
-- [ ] V_SALDOS_CONTAS_CONFIGURADAS_TODAS
-- [ ] V_CTRL_VENCTO_SALDOS_PARTE_B
-- [ ] V_LANCAMENTOS_ELALUR_LACS
-- [ ] V_SALDOS_PARTE_B
-- [ ] V_CONFIGURA_VALORES_PARTE_B
-- [ ] V_SALDOS_RELATORIO_SINTETICO
-- [ ] V_CONTAS_PARTEB_DISPONIVEIS_CONFIGURAR (**Não tem manageMapping** ==Não consegui encontrar onde é utilizada==)
-
-## Refatoracoes pra o futuro
-- [ ] V_CONTAS_PARTEB_PROV_DISPONIVEIS_CONFIGURAR

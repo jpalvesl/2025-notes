@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bbdf14e925d9f65d",
+        "id": "5f04f6d4231a9661",
         "type": "tabs",
         "children": [
           {
-            "id": "3a21fd244d30b2ea",
+            "id": "db4362dbde4b6353",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "sycnhro/excalidraw/ISS_CRITICA.excalidraw"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ISS_CRITICA"
-            }
-          },
-          {
-            "id": "53c1e1f77ec86841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sycnhro/documentacao/automacao.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "automacao"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,13 +171,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "53c1e1f77ec86841",
+  "active": "db4362dbde4b6353",
   "lastOpenFiles": [
+    "sycnhro/documentacao/automacao.md",
     "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
     "sycnhro/excalidraw",
     "sycnhro/issues/issue-8936.md",
     "Untitled.md",
-    "sycnhro/documentacao/automacao.md",
     "sycnhro/documentacao",
     "sycnhro/issues/issue-9944.md",
     "sycnhro/issues/issue-9677.md",
@@ -212,7 +195,6 @@
     "sycnhro/testes/9944.md",
     "sycnhro/testes",
     "sycnhro/issues/issue-9944-cascata.md",
-    "sycnhro/issues",
-    "sycnhro"
+    "sycnhro/issues"
   ]
 }

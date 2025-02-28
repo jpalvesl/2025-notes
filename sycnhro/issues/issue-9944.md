@@ -150,3 +150,9 @@
 ---
 ## Validação de comportamento
 1. Contas controles repetidas em combos
+
+---
+# Reimport de CVs
+## OK -> ==todas==
+
+0018701006

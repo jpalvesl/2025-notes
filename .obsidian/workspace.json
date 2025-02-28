@@ -33,7 +33,8 @@
               "title": "automacao"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,11 +188,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6cc51421eac22a3c",
+  "active": "53c1e1f77ec86841",
   "lastOpenFiles": [
+    "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
     "sycnhro/excalidraw",
     "sycnhro/issues/issue-8936.md",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
     "Untitled.md",
     "sycnhro/documentacao/automacao.md",
     "sycnhro/documentacao",

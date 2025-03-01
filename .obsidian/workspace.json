@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "me/projetos/mapa-com-grafos.md",
+                "file": "me/projetos/vuttr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mapa-com-grafos"
+              "title": "vuttr"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +181,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e281dbc6d827ebb",
+  "active": "db4362dbde4b6353",
   "lastOpenFiles": [
-    "me/mapa-com-grafos/Untitled.md",
     "me/projetos/mapa-com-grafos.md",
+    "me/projetos/vuttr.md",
+    "me/mapa-com-grafos/Untitled.md",
     "me/projetos",
     "me/mapa-com-grafos",
     "sycnhro/documentacao/automacao.md",

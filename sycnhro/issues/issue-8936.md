@@ -1,4 +1,3 @@
-
 > [!NOTE] # [3321898] Revisão regra ISS_CRITICAS
 
 - Item 1: CRITICAS_DT_E_S_X_DT_DOC
@@ -104,6 +103,7 @@ Pacote utilizado **APURACAO_ISS_2.0_COMPLEMENTAR**
 
 
 ---
-- [ ] Colocar em uma CV só as criticas
+- [ ] Colocar em uma CV só as criticas ==Discutir essa parte==
 - [ ] alterar workflow do fluxo de apuração
 - [ ] Alterar CV pra verificar se o valor de ambas projections vem nulas
+

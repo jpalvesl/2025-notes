@@ -1,5 +1,5 @@
 # Automação
-
+%% 
 Existe alguma coisa que que ainda não foi migrada mas está no radar? **ECF foi migrada parcialmente** 
 
 A automação tem o conhecimento do que  fazer e quando fazer chamamos isso de workflows, porém desconhece, como quando e por quem vai ser feito
@@ -9,8 +9,10 @@ Atraves do trace podemos temos bastante informação visto que salvamos o dado n
 Tela -> Admin > Status das automações
 
 ---
-
+ %%
 > [!NOTE] # Automação
+
+![[sycnhro/excalidraw/automacao-abstrata.md]]
 
 A Automação é um componente do sistema que possui as seguintes características:
 - Arquitetura orientada a eventos
@@ -30,7 +32,7 @@ Evento é uma mensagem de notificação sobre um acontecimento
 
 ### Workflow
 ![workflow](../../attachments/Pasted%20image%2020250306143143.png)
-
+%% 
 ---
 
 Temos 3 tabelas
@@ -62,4 +64,4 @@ Temos 3 tabelas
 
 - Verificar se podemos iniciar um processo atraves do gerproc ou só podemos dar continuidade a um processo ja agendado
 
-- Auditoria tambem cadastra no messagem store
+- Auditoria tambem cadastra no messagem store %%

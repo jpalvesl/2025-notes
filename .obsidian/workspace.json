@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "me/projetos/crud-basico-jdbc.md",
+                "file": "me/projetos/jogo-de-cartas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crud-basico-jdbc"
+              "title": "jogo-de-cartas"
             }
           }
         ]
@@ -183,11 +183,12 @@
   },
   "active": "db4362dbde4b6353",
   "lastOpenFiles": [
+    "me/projetos/crud-basico-jdbc.md",
+    "me/projetos/jogo-de-cartas.md",
     "attachments/stick-people.excalidrawlib",
     "attachments/Pasted image 20250306143143.png",
     "attachments",
     "me/projetos/vuttr.md",
-    "me/projetos/crud-basico-jdbc.md",
     "me/projetos/mapa-com-grafos.md",
     "me/mapa-com-grafos/Untitled.md",
     "me/projetos",
@@ -209,7 +210,6 @@
     "sycnhro/reunioes/squad",
     "sycnhro/reunioes",
     "README.md",
-    "me",
     "sycnhro/testes/9944.md",
     "sycnhro/issues/issue-9944-cascata.md"
   ]

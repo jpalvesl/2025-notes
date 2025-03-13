@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be8574274d9de6e9",
+        "id": "5f04f6d4231a9661",
         "type": "tabs",
         "children": [
           {
-            "id": "bf6c87c85dee1466",
+            "id": "db4362dbde4b6353",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "me/projetos/crud-basico-jdbc.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "crud-basico-jdbc"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sycnhro/excalidraw/automacao.md",
+                "file": "me/projetos/mapa-com-grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for automacao"
+              "title": "Backlinks for mapa-com-grafos"
             }
           },
           {
@@ -124,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -136,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sycnhro/issues/issue-9944-cascata-org.md"
+                "file": "me/projetos/mapa-com-grafos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of issue-9944-cascata-org"
+              "title": "Outline of mapa-com-grafos"
             }
           },
           {
@@ -148,11 +157,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,31 +181,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6cc51421eac22a3c",
+  "active": "db4362dbde4b6353",
   "lastOpenFiles": [
-    "sycnhro/excalidraw/automacao-abstrata.md",
-    "sycnhro/excalidraw/automacao.md",
-    "sycnhro/documentacao/automacao.md",
-    "sycnhro/issues/issue-8936.md",
-    "sycnhro/issues/issue-9677.md",
-    "sycnhro/issues/issue-9944.md",
-    "sycnhro/excalidraw/automacao (Copy).md",
-    "sycnhro/excalidraw/ISS_CRITICA.md",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw.md.md",
-    "sycnhro/excalidraw/Drawing 2025-03-11 09.59.03.excalidraw.md",
     "attachments/stick-people.excalidrawlib",
-    "Pasted image 20250306143032.png",
     "attachments/Pasted image 20250306143143.png",
     "attachments",
-    "Pasted image 20250306143003.png",
-    "Pasted image 20250306142906.png",
     "me/projetos/vuttr.md",
+    "me/projetos/crud-basico-jdbc.md",
     "me/projetos/mapa-com-grafos.md",
+    "me/mapa-com-grafos/Untitled.md",
     "me/projetos",
+    "me/mapa-com-grafos",
+    "sycnhro/documentacao/automacao.md",
+    "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
     "sycnhro/excalidraw",
+    "sycnhro/issues/issue-8936.md",
     "Untitled.md",
     "sycnhro/documentacao",
+    "sycnhro/issues/issue-9944.md",
+    "sycnhro/issues/issue-9677.md",
     "sycnhro/issues/issue-10519.md",
     "sycnhro/tests/9944.md",
     "sycnhro/issues/issue-9944-cascata-org.md",

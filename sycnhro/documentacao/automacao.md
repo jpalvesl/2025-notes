@@ -12,7 +12,7 @@ Tela -> Admin > Status das automações
  %%
 > [!NOTE] # Automação
 
-![[sycnhro/excalidraw/automacao-abstrata.md]]
+![[../excalidraw/automacao-abstrata.excalidraw]]
 
 A Automação é um componente do sistema que possui as seguintes características:
 - Arquitetura orientada a eventos
@@ -42,9 +42,9 @@ Temos 3 tabelas
 
 **MESSAGE_STORE**: Diz respeito ao message store em si, que utilizamos pra armazenar comandos e eventos
 
-**CONTROL**: read-messages
+**CONTROL**: read-messages -> Controla e registra de comando e evento
 
-**REGISTER**: read-subscriber-registers
+**REGISTER**: read-subscriber-registers -> Não tem uso na mecanica do message store, usada apenas pra trobleshooting
 
 
 
@@ -65,3 +65,7 @@ Temos 3 tabelas
 - Verificar se podemos iniciar um processo atraves do gerproc ou só podemos dar continuidade a um processo ja agendado
 
 - Auditoria tambem cadastra no messagem store %%
+
+Alta latencia e baixa frequenciao banco só consegue rodar poucas coisas por vez (O motor por exemplo o padrao é ter 2 threads apenas)
+
+events source 

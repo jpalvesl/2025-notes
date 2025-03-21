@@ -27,18 +27,23 @@
 		- [x] `ISS_CRITICAS`
 
 --- 
-## Complemento de criticas customizado da Gerdau
+## Complemento de criticas customizado da Gerdau ==Verificar o impacto nesse complemento quando separamos as regras==
 ### PSYN_ISS_CRITICAS_GERDAU
 #### Item : **CRITICAS_COD_ITEM_X_TRIBUTACAO**
 - **Origem**: br.com.synchro.corporativo/V_RELATORIO_DOC_ITEM_SERVICO
 - **Destino**: /SYN/ITG/CRITICA
----
-### Observações
-- Verificar possiblidade de criar uma CV especifica pra critica
-- ISSQN e ISSQN2: Ficaria no lugar do primeiro item, mas o item2 seria igual
-- Atualmente pra gerar uma obrigação a gente executa a raia de apuracao_ISS ou apuracao_ISS_2.0, sendo assim todas as criticas seriam exibidas, visto que a gente nao tem nenhuma forma de saber qual critica mostrar.
 
-- No futuro o que tende a acontecer eh o ISSQN morrer e ficar apenas a 2.0
+#### Filtros
+**MODELO** _é diferente de_ "05"
+**TRIBUTACAO_COD_LEI** _é vazio_
+
+
+> [!question] Podemos pedir pra o usuario adicionar esse complemento na raia do ISS? Ou ele tambem deve ser executado pra ISSQN?
+> Acredito que seja nos dois, porque a regra está presente na mesma critica que é geral **Item 2**
+> 
+> Como nao vai ser mais usado entao não precisa alterar
+
+
 
 ---
 # Análise
@@ -92,14 +97,24 @@ params = {
 ```
 Pacote utilizado **APURACAO_ISS_2.0_COMPLEMENTAR**
 
--> Nao encontrei ainda como esse pacote é usado **APURACAO_ISS_2.0_FAT**
+**APURACAO_ISS_2.0_FAT**: Executado apenas quando é Recife ou Vitória
+
+
+### Diagrama da apuração ISS/ISSQN
+![[../excalidraw/8936.excalidraw]]
+- [x] Devemos criar uma raia para ISSQN para assim podermos colocar os complementos especificos daquela raia
+- [x] Separar os complementos itens em complementos
+- [x] Cria novo complemento de critica para documentos em atraso (ISSQN)
+- [ ] Adicionar no back se é issqn ou iss
+- [ ] Verificar se for issqn executar o proprio pacote no  lugar do iss
+
 
 ---
 ## Como os campos da critica são montados
 ### CRITICAS_DT_E_S_X_DT_DOC
 - [x] ID: `{SEQ_CRITICA.nextval}`
 - [x] CREATED: `{CURRENT_TIMESTAMP}`
-- [x] EMPRESA: **EMPRESA**~~
+- [x] EMPRESA: **EMPRESA**
 - [x] FILIAL: **FILIAL**
 - [x] IDENTIFICADOR_FUNCIONAL: **NF_ID**
 - [x] ID_REGISTRO_ENTIDADE: `{''|| MANDT ||'(+)'|| DT_E_S ||'(+)'|| FILIAL ||'(+)'|| EMPRESA ||'(+)'|| NF_ID ||''}`
@@ -125,3 +140,4 @@ Pacote utilizado **APURACAO_ISS_2.0_COMPLEMENTAR**
 - [x] PERIODO: `{SUBSTR(DT_FATO_GERADOR,1,6)}`
 - [x] SEVERIDADE: `ALERTA`
 - [x] TITULO: `Código do Item não cadastrado na Tributação ISS`
+---

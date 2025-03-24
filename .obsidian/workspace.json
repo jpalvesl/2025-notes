@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ceab55230a9d183",
+        "id": "8c698f73e6fec06c",
         "type": "tabs",
         "children": [
           {
-            "id": "9755e65cc949548a",
+            "id": "080474c1034402a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sycnhro/excalidraw/automacao.md",
+                "file": "me/projetos/mapa-com-grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for automacao"
+              "title": "Backlinks for mapa-com-grafos"
             }
           },
           {
@@ -128,7 +124,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sycnhro/issues/issue-9944-cascata-org.md"
+                "file": "me/projetos/mapa-com-grafos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of issue-9944-cascata-org"
+              "title": "Outline of mapa-com-grafos"
             }
           },
           {
@@ -152,22 +153,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "866319d330a5f4ba",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -186,53 +177,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9755e65cc949548a",
+  "active": "080474c1034402a3",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250306143143.png",
-    "attachments/Pasted Image 20250319120043_997.png",
-    "attachments/Pasted Image 20250319120044_002.svg",
-    "attachments/Pasted Image 20250319120044_003.png",
-    "attachments/Pasted Image 20250319120044_004.png",
-    "attachments/Pasted Image 20250319120044_004.svg",
-    "attachments/Pasted Image 20250319120044_005.svg",
-    "attachments/Pasted Image 20250319120044_006.svg",
-    "attachments/Pasted Image 20250319120044_006_0.svg",
-    "attachments/Pasted Image 20250319120044_007.svg",
-    "attachments/Pasted Image 20250319120044_007_0.svg",
     "Untitled.md",
-    "sycnhro/excalidraw/fluxo-lancamentos.excalidraw.md",
-    "sycnhro/excalidraw/Untitled.md",
+    "sycnhro/excalidraw/Drawing 2025-03-24 15.03.02.excalidraw.md",
     "sycnhro/excalidraw/help-panel.excalidraw.md",
-    "sycnhro/issues/issue-10519.md",
-    "sycnhro/issues/issue-10471.md",
-    "README.md",
-    "Excalidraw/Drawing 2025-03-20 15.51.39.excalidraw.md",
-    "Excalidraw",
     "sycnhro/excalidraw/feature-help-panel.excalidraw.md",
-    "sycnhro/reunioes/squad/relatorio-20-03.md",
-    "Untitled 1.md",
-    "sycnhro/issues/issue-8936.md",
-    "sycnhro/excalidraw/8936.excalidraw.md",
-    "me/projetos/tecnologia/java.md",
-    "me/projetos/tecnologia",
-    "me/projetos/tecnologia/gamemaker.md",
-    "sycnhro/excalidraw/feature-help-panel (Copy).excalidraw",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw.md",
-    "sycnhro/excalidraw/automacao.excalidraw.md",
-    "sycnhro/excalidraw/feature-help-panel.excalidraw",
-    "sycnhro/excalidraw/automacao-arquivos.excalidraw.md",
-    "sycnhro/excalidraw/automação-zoom-in.excalidraw.md",
-    "sycnhro/excalidraw/automacao-abstrata.excalidraw.md",
-    "sycnhro/excalidraw/automacao-arquivos.md",
-    "sycnhro/excalidraw/Untitled",
-    "sycnhro/excalidraw/automacao-zoom-in.excalidraw.md",
-    "sycnhro/documentacao/automacao.md",
+    "sycnhro/issues/issue-10471.md",
+    "sycnhro/issues/issue-10519.md",
+    "attachments/Pasted Image 20250319120044_007_0.svg",
+    "attachments/Pasted Image 20250319120044_006.svg",
+    "attachments/Pasted image 20250306143143.png",
+    "sycnhro/issues/issue-9490.md",
+    "sycnhro/excalidraw/Untitled.md",
     "me/projetos/jogo-de-cartas.md",
+    "sycnhro/reunioes/squad/relatorio-20-03.md",
+    "me/projetos/tecnologia/java.md",
+    "me/projetos/tecnologia/gamemaker.md",
+    "me/projetos/tecnologia",
+    "attachments/Pasted Image 20250319120044_007.svg",
+    "attachments/Pasted Image 20250319120044_006_0.svg",
+    "attachments/Pasted Image 20250319120044_005.svg",
+    "attachments/Pasted Image 20250319120044_004.svg",
+    "attachments/Pasted Image 20250319120044_004.png",
+    "attachments/Pasted Image 20250319120044_003.png",
+    "attachments/Pasted Image 20250319120044_002.svg",
     "me/projetos/crud-basico-jdbc.md",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
     "attachments/stick-people.excalidrawlib",
     "attachments",
+    "me/projetos/vuttr.md",
+    "me/projetos/mapa-com-grafos.md",
+    "me/mapa-com-grafos/Untitled.md",
     "me/projetos",
-    "sycnhro/excalidraw"
+    "me/mapa-com-grafos",
+    "sycnhro/documentacao/automacao.md",
+    "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
+    "sycnhro/excalidraw",
+    "sycnhro/issues/issue-8936.md",
+    "sycnhro/documentacao",
+    "sycnhro/issues/issue-9944.md",
+    "sycnhro/issues/issue-9677.md",
+    "sycnhro/tests/9944.md",
+    "sycnhro/issues/issue-9944-cascata-org.md",
+    "sycnhro/reunioes/analistas/16-01.md",
+    "2025-01-21.md",
+    "sycnhro/reunioes/analistas",
+    "sycnhro/reunioes/squad",
+    "README.md",
+    "sycnhro/testes/9944.md"
   ]
 }

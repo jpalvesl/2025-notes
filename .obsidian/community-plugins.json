@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-git",
   "obsidian-linter",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "homepage"
 ]

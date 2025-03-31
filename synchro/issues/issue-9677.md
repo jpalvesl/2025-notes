@@ -1,3 +1,8 @@
+---
+tags:
+started_at: 
+done: false
+---
 > [!NOTE] # [Chamado: 3309435] [ECF] - [Besni] Continuação do chamado 3237153
 
 > Para definir as alíquotas especificas para cada período a **Qualificação da Pessoa Jurídica** deve ser 02 - PJ Componente do Sistema Financeiro.

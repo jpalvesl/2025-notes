@@ -1,4 +1,8 @@
-
+---
+tags:
+started_at: 
+done: true
+---
 > [!NOTE] # [Chamado: 3318887] [ECF] - LALUR PARTE B - Erro ao configurar códigos de conta iguais para os dois tributos.
 > Ao cadastrar ou importar os dados para cadastro das contas da parte B (Listagem de Contas Controle - Parte B) a funcionalidade apresenta erro quando o mesmo código é utilizado para os dois tributos.
 

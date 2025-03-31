@@ -1,3 +1,8 @@
+---
+tags:
+started_at: 
+done: true
+---
 # Cascata em camadas da CV
 
 > Nivel 1

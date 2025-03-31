@@ -1,4 +1,9 @@
-
+---
+tags:
+  - gamemaker
+started_at: 
+done: false
+---
 > [!NOTE] # Jogo de cartas
 
 ## Fazer o funcionamento de um baralho

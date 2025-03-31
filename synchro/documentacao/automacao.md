@@ -1,3 +1,8 @@
+---
+tags:
+  - doc
+done: false
+---
 # Automação
 %% 
 Existe alguma coisa que que ainda não foi migrada mas está no radar? **ECF foi migrada parcialmente** 

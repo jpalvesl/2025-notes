@@ -1,54 +1,27 @@
 {
   "main": {
-    "id": "40a3a8a42ff90314",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "8c698f73e6fec06c",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "080474c1034402a3",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alternativas-guias.md",
+                "file": "all-tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alternativas-guias"
-            }
-          },
-          {
-            "id": "52f6e6a5b428910b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "87ffa082109ff6d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "sycnhro/excalidraw/8936.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "8936.excalidraw"
+              "title": "all-tasks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#projeto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,35 +178,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "87ffa082109ff6d7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "all-tasks.md",
     "Untitled.md",
+    "README.md",
+    "synchro/summary.md",
+    "notes/2025-03-30.md",
+    "notes/2.md",
+    "daily-todo",
+    "2025-03-30.md",
+    "me/summary.md",
     "alternativas-guias.md",
-    "sycnhro/excalidraw/8936.excalidraw.md",
-    "sycnhro/excalidraw/automacao-abstrata.excalidraw.md",
-    "sycnhro/excalidraw/automacao-arquivos.excalidraw.md",
-    "sycnhro/excalidraw/automação-zoom-in.excalidraw.md",
-    "sycnhro/excalidraw/automacao.excalidraw.md",
-    "sycnhro/excalidraw/Drawing 2025-03-25 14.36.23.excalidraw.md",
-    "sycnhro/excalidraw/feature-help-panel.excalidraw.md",
-    "sycnhro/excalidraw/fluxo-lancamentos.excalidraw.md",
-    "sycnhro/excalidraw/help-panel.excalidraw.md",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw.md",
-    "sycnhro/excalidraw/Untitled.md",
-    "sycnhro/excalidraw/Drawing 2025-03-24 15.03.02.excalidraw.md",
-    "sycnhro/issues/issue-10471.md",
-    "sycnhro/issues/issue-10519.md",
+    "me/projetos/vuttr.md",
+    "me/projetos/mapa-com-grafos.md",
+    "me/projetos/jogo-de-cartas.md",
+    "me/projetos/crud-basico-jdbc.md",
+    "synchro/issues/issue-8936.md",
+    "me/projetos/tecnologia/java.md",
+    "me/projetos/tecnologia/gamemaker.md",
+    "synchro/issues/issue-10471.md",
+    "synchro/issues/issue-10519.md",
+    "synchro/issues/issue-9944-cascata-org.md",
+    "synchro/issues/issue-9944-cascata.md",
+    "synchro/issues/issue-9944.md",
+    "synchro/issues/issue-9677.md",
+    "synchro/issues/issue-9490.md",
+    "0001-02-03.md",
+    "synchro/documentacao/automacao.md",
+    "synchro/excalidraw/8936.excalidraw.md",
+    "me/dataview",
     "attachments/Pasted Image 20250319120044_007_0.svg",
     "attachments/Pasted Image 20250319120044_006.svg",
     "attachments/Pasted image 20250306143143.png",
-    "sycnhro/issues/issue-9490.md",
-    "me/projetos/jogo-de-cartas.md",
-    "sycnhro/reunioes/squad/relatorio-20-03.md",
-    "me/projetos/tecnologia/java.md",
-    "me/projetos/tecnologia/gamemaker.md",
     "me/projetos/tecnologia",
     "attachments/Pasted Image 20250319120044_007.svg",
     "attachments/Pasted Image 20250319120044_006_0.svg",
@@ -242,19 +223,12 @@
     "attachments/Pasted Image 20250319120044_004.png",
     "attachments/Pasted Image 20250319120044_003.png",
     "attachments/Pasted Image 20250319120044_002.svg",
-    "me/projetos/crud-basico-jdbc.md",
     "attachments/stick-people.excalidrawlib",
     "attachments",
-    "me/projetos/vuttr.md",
-    "me/projetos/mapa-com-grafos.md",
-    "me/mapa-com-grafos/Untitled.md",
     "me/projetos",
     "me/mapa-com-grafos",
-    "sycnhro/documentacao/automacao.md",
     "sycnhro/excalidraw/ISS_CRITICA.excalidraw",
-    "sycnhro/excalidraw",
-    "sycnhro/documentacao",
-    "sycnhro/reunioes/analistas",
-    "sycnhro/reunioes/squad"
+    "synchro/excalidraw",
+    "synchro/documentacao"
   ]
 }

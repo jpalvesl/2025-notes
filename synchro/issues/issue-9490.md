@@ -1,4 +1,11 @@
-
+---
+tags:
+  - frontend
+  - backend
+  - motor-de-complemento
+started_at: 2024-03-24
+done: false
+---
 > [!NOTE] # [3304935] Complementos - Implementar criação de pacotes de complemento customizados
 
 ## Problema

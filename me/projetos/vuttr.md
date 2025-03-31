@@ -1,3 +1,10 @@
+---
+tags:
+  - backend
+  - mobile
+started_at: 
+done: false
+---
 # VUTTR
 ## Backend
 - [x] Verificar a adição de uma nova ferramenta com tags

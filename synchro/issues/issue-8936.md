@@ -1,3 +1,13 @@
+---
+tags:
+  - frontend
+  - backend
+  - automacao
+  - issue
+started_at: 
+done: true
+---
+
 > [!NOTE] # [3321898] Revisão regra ISS_CRITICAS
 
 - Item 1: CRITICAS_DT_E_S_X_DT_DOC

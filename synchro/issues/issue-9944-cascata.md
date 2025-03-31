@@ -1,3 +1,8 @@
+---
+tags:
+started_at: 
+done: true
+---
 > [!warning] # Objetos afetados em cascata
 
 

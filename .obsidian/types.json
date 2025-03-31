@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "started_at": "date",
     "done": "checkbox",
-    "trabalho": "checkbox"
+    "trabalho": "checkbox",
+    "espec": "checkbox"
   }
 }

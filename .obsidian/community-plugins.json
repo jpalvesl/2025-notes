@@ -5,5 +5,6 @@
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "homepage"
+  "homepage",
+  "templater-obsidian"
 ]

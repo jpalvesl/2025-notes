@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5b03bd96eb8fa3de",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a7df8be0ee573b0f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "all-tasks"
             }
@@ -160,13 +162,24 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "bed2f93ef189da7b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,28 +192,35 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7df8be0ee573b0f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "daily-todo/2025-04-01.md",
-    "daily-todo/2025-03-31.md",
+    "daily-todo/2025-04-02.md",
     "all-tasks.md",
-    "synchro/issues/issue-10673.md",
-    "synchro/issues/issue-10719.md",
     "synchro/issues/issue-9490.md",
+    "me/guitarra/primeira-musica.md",
+    "me/guitarra/notas-musicais.md",
+    "me/guitarra/partes-da-guitarra.md",
+    "daily-todo/2025-03-31.md",
+    "me/guitarra",
+    "synchro/summary.md",
+    "synchro/excalidraw/8936.excalidraw.md",
+    "synchro/issues/issue-10610.md",
+    "attachments/Pasted image 20250331161253.png",
+    "attachments/Pasted image 20250331161311.png",
+    "daily-todo/2025-04-01.md",
+    "synchro/issues/issue-10719.md",
+    "synchro/issues/issue-10471.md",
+    "synchro/issues/issue-10673.md",
     "synchro/issues/Untitled 1.md",
     "synchro/issues/issue-9944-cascata-org.md",
     "templates/issue-template.md",
     "synchro/issues/issue-8936.md",
-    "synchro/issues/issue-10610.md",
     "synchro/issues/issue-9944.md",
     "templates",
-    "synchro/summary.md",
-    "attachments/Pasted image 20250331161311.png",
-    "attachments/Pasted image 20250331161253.png",
-    "synchro/issues/issue-10471.md",
     "synchro/issues/issue-9944-cascata.md",
     "synchro/issues/issue-9677.md",
     "daily-todo",
@@ -210,11 +230,6 @@
     "notes/2.md",
     "daily-todo",
     "2025-03-30.md",
-    "me/summary.md",
-    "alternativas-guias.md",
-    "me/projetos/vuttr.md",
-    "me/projetos/mapa-com-grafos.md",
-    "me/projetos/jogo-de-cartas.md",
     "me/dataview",
     "attachments/Pasted Image 20250319120044_007_0.svg",
     "attachments/Pasted Image 20250319120044_006.svg",
@@ -228,7 +243,6 @@
     "attachments/stick-people.excalidrawlib",
     "attachments",
     "me/projetos",
-    "me/mapa-com-grafos",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw"
+    "me/mapa-com-grafos"
   ]
 }

@@ -6,5 +6,8 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "homepage",
-  "templater-obsidian"
+  "templater-obsidian",
+  "chord-sheets",
+  "obsidian-jtab",
+  "table-editor-obsidian"
 ]

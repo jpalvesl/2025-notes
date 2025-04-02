@@ -28,3 +28,8 @@ Na execução manual a gente consegue inputar o valor
 Mas no agendamento vai vazio.
 
 Vai ser geral essa alteração de poder executar as raias manualmente
+
+---
+- Lista vertical
+- Alias
+- Rodar com recorrencia (no caso escolher o workflow que já foi rodado pra rodar novamente)

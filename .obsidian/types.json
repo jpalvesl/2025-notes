@@ -26,6 +26,7 @@
     "started_at": "date",
     "done": "checkbox",
     "trabalho": "checkbox",
-    "espec": "checkbox"
+    "espec": "checkbox",
+    "autoscroll-speed": "number"
   }
 }

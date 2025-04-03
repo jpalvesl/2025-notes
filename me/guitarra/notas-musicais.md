@@ -12,3 +12,10 @@
 | Sustenido | ♯      |
 | Bemol     | ♭      |
 
+## Afinação Padrão de uma guitarra
+Mi
+Lá
+Ré
+Sol
+Si
+mi

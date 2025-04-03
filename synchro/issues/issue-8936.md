@@ -3,7 +3,6 @@ tags:
   - frontend
   - backend
   - automacao
-  - issue
 started_at: 
 done: true
 ---

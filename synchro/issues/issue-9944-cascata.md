@@ -1,5 +1,7 @@
 ---
 tags:
+  - frontend
+  - backend
 started_at: 
 done: true
 ---

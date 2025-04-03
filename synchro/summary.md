@@ -6,6 +6,7 @@
 	choice(done, "✅", "❌") AS Finalizada 
 	FROM "synchro/issues"
 	where done != true
+	and espec != true
 ```
 # Especs
 ```dataview

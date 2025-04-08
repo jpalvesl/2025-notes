@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "all-tasks"
             }
@@ -142,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-todo/2025-04-05.md",
+                "file": "synchro/issues/issue-10727.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-05"
+              "title": "Outline of issue-10727"
             }
           },
           {
@@ -159,6 +161,16 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "bed2f93ef189da7b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -171,8 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,47 +191,51 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "daily-todo/2025-04-07.md",
     "all-tasks.md",
+    "daily-todo/2025-04-08.md",
     "synchro/issues/issue-10727.md",
     "daily-todo/2025-04-05.md",
-    "templates/issue-template.md",
-    "templates",
-    "synchro/issues/issue-10719.md",
-    "synchro/issues/issue-10673.md",
-    "synchro/issues/issue-10610.md",
-    "synchro/excalidraw/refactor-users-low-fidelity.excalidraw.md",
-    "synchro/excalidraw/possiveis-solucoes-ana.excalidraw.md",
-    "me/guitarra/primeira-musica.md",
-    "me/guitarra/partes-da-guitarra.md",
-    "me/guitarra/notas-musicais.md",
-    "me/guitarra/guitar-tab.md",
-    "me/guitarra",
     "daily-todo/2025-04-04.md",
     "daily-todo/2025-04-03.md",
-    "daily-todo/2025-04-02.md",
-    "daily-todo/2025-04-01.md",
+    "synchro/summary.md",
+    "synchro/excalidraw/refactor-users-low-fidelity.excalidraw.md",
+    "synchro/excalidraw/8936.excalidraw.md",
+    "me/guitarra/guitar-tab.md",
     "daily-todo/2025-03-31.md",
-    "attachments/Pasted image 20250331161311.png",
-    "attachments/Pasted image 20250331161253.png",
+    "daily-todo/2025-04-01.md",
+    "daily-todo/2025-04-02.md",
+    "me/guitarra/primeira-musica.md",
+    "me/guitarra/notas-musicais.md",
+    "synchro/excalidraw/possiveis-solucoes-ana.excalidraw.md",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
     "attachments/Pasted Image 20250403105956_880.png",
     "attachments/Pasted Image 20250403105956_875.png",
     "attachments/Pasted Image 20250403105956_847.svg",
-    "Untitled.md",
-    "README.md",
-    "synchro/summary.md",
-    "notes/2025-03-30.md",
-    "notes/2.md",
+    "synchro/excalidraw/refactor-users-low-fidelity.excalidraw",
+    "synchro/issues/issue-10610.md",
+    "synchro/issues/issue-10673.md",
+    "synchro/issues/issue-10519.md",
+    "synchro/issues/issue-10719.md",
+    "synchro/issues/issue-10471.md",
+    "synchro/issues/issue-9944-cascata-org.md",
+    "synchro/issues/issue-9944-cascata.md",
+    "synchro/issues/issue-9944.md",
+    "synchro/issues/issue-9677.md",
+    "me/guitarra",
+    "attachments/Pasted image 20250331161253.png",
+    "attachments/Pasted image 20250331161311.png",
+    "templates",
     "daily-todo",
-    "2025-03-30.md",
-    "me/summary.md",
-    "alternativas-guias.md",
+    "daily-todo",
     "me/dataview",
     "attachments/Pasted Image 20250319120044_007_0.svg",
     "attachments/Pasted Image 20250319120044_006.svg",
@@ -229,8 +243,6 @@
     "me/projetos/tecnologia",
     "attachments/stick-people.excalidrawlib",
     "attachments",
-    "me/projetos",
-    "me/mapa-com-grafos",
-    "sycnhro/excalidraw/ISS_CRITICA.excalidraw"
+    "me/projetos"
   ]
 }

@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +186,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "synchro/issues/issue-10727.md",
     "all-tasks.md",
+    "synchro/issues/issue-10727.md",
     "daily-todo/2025-04-05.md",
     "templates/issue-template.md",
     "templates",

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "cb780828a4a358ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "36aec496564fca5e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "all-tasks"
             }
@@ -178,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,18 +193,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "36aec496564fca5e",
   "lastOpenFiles": [
-    "daily-todo/2025-04-07.md",
+    "daily-todo/2025-04-10.md",
     "all-tasks.md",
+    "daily-todo/2025-04-03.md",
     "daily-todo/2025-04-08.md",
+    "synchro/excalidraw/8936.excalidraw.md",
+    "synchro/issues/issue-10610.md",
+    "daily-todo/2025-04-07.md",
     "synchro/issues/issue-10727.md",
     "daily-todo/2025-04-05.md",
     "daily-todo/2025-04-04.md",
-    "daily-todo/2025-04-03.md",
     "synchro/summary.md",
     "synchro/excalidraw/refactor-users-low-fidelity.excalidraw.md",
-    "synchro/excalidraw/8936.excalidraw.md",
     "me/guitarra/guitar-tab.md",
     "daily-todo/2025-03-31.md",
     "daily-todo/2025-04-01.md",
@@ -221,7 +220,6 @@
     "attachments/Pasted Image 20250403105956_875.png",
     "attachments/Pasted Image 20250403105956_847.svg",
     "synchro/excalidraw/refactor-users-low-fidelity.excalidraw",
-    "synchro/issues/issue-10610.md",
     "synchro/issues/issue-10673.md",
     "synchro/issues/issue-10519.md",
     "synchro/issues/issue-10719.md",
@@ -229,7 +227,6 @@
     "synchro/issues/issue-9944-cascata-org.md",
     "synchro/issues/issue-9944-cascata.md",
     "synchro/issues/issue-9944.md",
-    "synchro/issues/issue-9677.md",
     "me/guitarra",
     "attachments/Pasted image 20250331161253.png",
     "attachments/Pasted image 20250331161311.png",

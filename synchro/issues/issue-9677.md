@@ -1,7 +1,7 @@
 ---
-tags:
+tags: 
 started_at: 
-done: false
+done: true
 ---
 > [!NOTE] # [Chamado: 3309435] [ECF] - [Besni] Continuação do chamado 3237153
 

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df77f5d5de1f9ac8",
+            "id": "edc0beb6297fae9f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#projeto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df77f5d5de1f9ac8",
+  "active": "edc0beb6297fae9f",
   "lastOpenFiles": [
+    "daily-todo/2025-04-22.md",
+    "all-tasks.md",
+    "daily-todo/2025-04-17.md",
     "daily-todo/2025-04-15.md",
     "synchro/excalidraw/8936.excalidraw.md",
-    "all-tasks.md",
     "synchro/excalidraw/controle-acesso-menu.excalidraw.md",
     "attachments/Pasted Image 20250415084547_740.png",
     "attachments/Pasted Image 20250415084424_606.png",
@@ -224,14 +225,12 @@
     "daily-todo/2025-04-02.md",
     "me/guitarra/primeira-musica.md",
     "me/guitarra/notas-musicais.md",
-    "synchro/excalidraw/possiveis-solucoes-ana.excalidraw.md",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
     "attachments/Pasted Image 20250403105956_880.png",
     "attachments/Pasted Image 20250403105956_875.png",
     "attachments/Pasted Image 20250403105956_847.svg",
     "synchro/excalidraw/refactor-users-low-fidelity.excalidraw",
-    "synchro/issues/issue-10673.md",
     "me/guitarra",
     "attachments/Pasted image 20250331161253.png",
     "attachments/Pasted image 20250331161311.png",

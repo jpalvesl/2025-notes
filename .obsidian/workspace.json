@@ -8,19 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edc0beb6297fae9f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all-tasks.md",
+                "file": "daily-todo/2025-04-15.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "all-tasks"
+              "title": "2025-04-15"
             }
           }
         ]
@@ -195,12 +193,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edc0beb6297fae9f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "daily-todo/2025-04-22.md",
+    "daily-todo/2025-04-25.md",
+    "synchro/issues/issue-10752.md",
+    "Untitled.md",
+    "Untitled 2.md",
     "all-tasks.md",
-    "daily-todo/2025-04-17.md",
     "daily-todo/2025-04-15.md",
+    "daily-todo/2025-04-24.md",
+    "daily-todo/2025-04-23.md",
+    "synchro/issues/issue-10727.md",
+    "daily-todo/2025-04-22.md",
+    "daily-todo/2025-04-17.md",
     "synchro/excalidraw/8936.excalidraw.md",
     "synchro/excalidraw/controle-acesso-menu.excalidraw.md",
     "attachments/Pasted Image 20250415084547_740.png",
@@ -215,16 +220,9 @@
     "daily-todo/2025-04-03.md",
     "daily-todo/2025-04-08.md",
     "daily-todo/2025-04-07.md",
-    "synchro/issues/issue-10727.md",
     "daily-todo/2025-04-05.md",
     "daily-todo/2025-04-04.md",
     "synchro/excalidraw/refactor-users-low-fidelity.excalidraw.md",
-    "me/guitarra/guitar-tab.md",
-    "daily-todo/2025-03-31.md",
-    "daily-todo/2025-04-01.md",
-    "daily-todo/2025-04-02.md",
-    "me/guitarra/primeira-musica.md",
-    "me/guitarra/notas-musicais.md",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
     "attachments/Pasted Image 20250403105956_880.png",

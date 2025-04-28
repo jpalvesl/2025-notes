@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-todo/2025-04-15.md",
+                "file": "all-tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-15"
+              "title": "all-tasks"
             }
           }
         ]
@@ -195,12 +195,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "daily-todo/2025-04-15.md",
     "daily-todo/2025-04-25.md",
     "synchro/issues/issue-10752.md",
     "Untitled.md",
     "Untitled 2.md",
     "all-tasks.md",
-    "daily-todo/2025-04-15.md",
     "daily-todo/2025-04-24.md",
     "daily-todo/2025-04-23.md",
     "synchro/issues/issue-10727.md",

@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "all-tasks"
             }
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -176,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +199,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "daily-todo/2025-04-30.md",
+    "synchro/issues/issue-10752.md",
     "all-tasks.md",
+    "daily-todo/2025-04-30.md",
     "daily-todo/2025-04-28.md",
     "daily-todo/2025-04-24.md",
     "daily-todo/2025-04-25.md",
     "daily-todo/2025-04-29.md",
     "daily-todo/2025-04-15.md",
-    "synchro/issues/issue-10752.md",
     "synchro/issues/issue-10779.md",
     "Untitled.md",
     "Untitled 2.md",

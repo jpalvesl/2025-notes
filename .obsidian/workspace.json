@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all-tasks.md",
+                "file": "synchro/issues/issue-10753.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all-tasks"
+              "title": "issue-10753"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "synchro/issues/issue-10753.md",
+    "daily-todo/2025-05-07.md",
     "all-tasks.md",
     "synchro/issues/issue-10752.md",
     "daily-todo/2025-05-06.md",
@@ -222,8 +224,6 @@
     "synchro/issues/issue-10719.md",
     "synchro/issues/issue-9677.md",
     "daily-todo/2025-04-11.md",
-    "daily-todo/2025-04-10.md",
-    "daily-todo/2025-04-03.md",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
     "attachments/Pasted Image 20250403105956_880.png",

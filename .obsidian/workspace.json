@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "b792290db799ada3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c471b3213405d070",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "synchro/issues/issue-10753.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "issue-10753"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -176,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,26 +190,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c471b3213405d070",
   "lastOpenFiles": [
-    "synchro/issues/issue-10753.md",
-    "daily-todo/2025-05-07.md",
-    "all-tasks.md",
-    "synchro/issues/issue-10752.md",
-    "daily-todo/2025-05-06.md",
-    "daily-todo/2025-05-05.md",
-    "Untitled.md",
-    "daily-todo/2025-04-30.md",
     "daily-todo/2025-04-28.md",
-    "daily-todo/2025-04-24.md",
-    "daily-todo/2025-04-25.md",
+    "all-tasks.md",
+    "synchro/issues/issue-10753.md",
+    "daily-todo/2025-04-30.md",
     "daily-todo/2025-04-29.md",
+    "daily-todo/2025-04-25.md",
+    "daily-todo/2025-04-22.md",
+    "daily-todo/2025-04-23.md",
+    "daily-todo/2025-04-24.md",
+    "daily-todo/2025-05-05.md",
+    "daily-todo/2025-05-06.md",
+    "daily-todo/2025-05-07.md",
+    "synchro/issues/issue-10752.md",
+    "Untitled.md",
     "daily-todo/2025-04-15.md",
     "synchro/issues/issue-10779.md",
     "Untitled 2.md",
-    "daily-todo/2025-04-23.md",
     "synchro/issues/issue-10727.md",
-    "daily-todo/2025-04-22.md",
     "daily-todo/2025-04-17.md",
     "synchro/excalidraw/8936.excalidraw.md",
     "synchro/excalidraw/controle-acesso-menu.excalidraw.md",

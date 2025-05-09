@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b792290db799ada3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c471b3213405d070",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "all-tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "all-tasks"
             }
           }
         ]
@@ -173,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +197,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c471b3213405d070",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "daily-todo/2025-04-28.md",
-    "all-tasks.md",
     "synchro/issues/issue-10753.md",
+    "daily-todo/2025-05-12.md",
+    "all-tasks.md",
+    "daily-todo/2025-04-28.md",
     "daily-todo/2025-04-30.md",
     "daily-todo/2025-04-29.md",
     "daily-todo/2025-04-25.md",
@@ -219,7 +227,6 @@
     "synchro/issues/issue-10610.md",
     "synchro/issues/issue-10719.md",
     "synchro/issues/issue-9677.md",
-    "daily-todo/2025-04-11.md",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
     "attachments/Pasted Image 20250403105956_880.png",

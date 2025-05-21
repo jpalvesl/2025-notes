@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d0e999880e085b29",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c06c76ff76729d6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-todo/2025-05-20.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-20"
-            }
-          },
-          {
-            "id": "378cf553d37601be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "synchro/issues/issue-10752.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "issue-10752"
+              "title": "New tab"
             }
           }
         ]
@@ -92,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -207,11 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c06c76ff76729d6d",
   "lastOpenFiles": [
-    "synchro/issues/issue-10752.md",
+    "daily-todo/2025-05-22.md",
+    "daily-todo/2025-05-21.md",
     "daily-todo/2025-05-20.md",
     "all-tasks.md",
+    "synchro/issues/issue-10752.md",
     "Untitled.md",
     "attachments/Pasted image 20250519150528.png",
     "attachments/Pasted image 20250519145526.png",
@@ -240,8 +225,6 @@
     "synchro/excalidraw/controle-acesso-menu.excalidraw.md",
     "attachments/Pasted Image 20250415084547_740.png",
     "attachments/Pasted Image 20250415084424_606.png",
-    "synchro/summary.md",
-    "synchro/issues/issue-10610.md",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
     "attachments/Pasted Image 20250403105956_880.png",

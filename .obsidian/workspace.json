@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9187083b0a687966",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synchro/issues/issue-10866.md",
+                "file": "daily-todo/2025-06-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "issue-10866"
+              "title": "2025-06-04"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +194,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9187083b0a687966",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "daily-todo/2025-05-21.md",
+    "daily-todo/2025-06-03.md",
+    "daily-todo/2025-06-05.md",
+    "daily-todo/2025-06-02.md",
+    "all-tasks.md",
+    "daily-todo/2025-06-04.md",
+    "synchro/treinamentos/pes/dia-1.md",
+    "synchro/treinamentos/pes",
+    "synchro/treinamentos",
+    "Untitled.md",
+    "Untitled 1.md",
     "synchro/issues/issue-10866.md",
+    "daily-todo/2025-05-21.md",
     "daily-todo/2025-05-23.md",
     "synchro/excalidraw/calc-automaticos.excalidraw.md",
     "synchro/issues/issue-10688.md",
     "synchro/issues/issue-10779.md",
-    "all-tasks.md",
     "synchro/excalidraw/automacao.excalidraw.md",
     "synchro/excalidraw/calc-automaticos.excalidraw",
     "synchro/excalidraw/m410.excalidraw.md",
@@ -222,13 +230,6 @@
     "synchro/issues/issue-10753.md",
     "daily-todo/2025-05-12.md",
     "daily-todo/2025-04-28.md",
-    "daily-todo/2025-04-30.md",
-    "daily-todo/2025-04-29.md",
-    "daily-todo/2025-04-25.md",
-    "daily-todo/2025-04-22.md",
-    "daily-todo/2025-04-23.md",
-    "daily-todo/2025-04-24.md",
-    "daily-todo/2025-05-05.md",
     "attachments/Pasted Image 20250415084547_740.png",
     "attachments/Pasted Image 20250415084424_606.png",
     "attachments/Pasted Image 20250403105956_889.png",
@@ -240,8 +241,6 @@
     "daily-todo",
     "daily-todo",
     "me/dataview",
-    "me/projetos/tecnologia",
-    "attachments/stick-people.excalidrawlib",
-    "attachments"
+    "me/projetos/tecnologia"
   ]
 }

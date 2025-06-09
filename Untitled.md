@@ -27,6 +27,3 @@
 	- Transformando o amanhã Cultura Synchro
 
 - Podemos fazer carteirinha do sesc
-
-
-23-min planning

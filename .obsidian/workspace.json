@@ -35,7 +35,8 @@
               "title": "issue-10866"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6f76d2b74e6ec65c",
   "lastOpenFiles": [
-    "synchro/issues/issue-10866.md",
     "daily-todo/2025-06-13.md",
+    "synchro/issues/issue-10866.md",
     "all-tasks.md",
     "daily-todo/2025-06-12.md",
     "daily-todo/2025-06-11.md",

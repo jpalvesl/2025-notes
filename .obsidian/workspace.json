@@ -8,21 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2231a9f1bf9be0b7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-todo/2025-06-10.md",
+                "file": "daily-todo/2025-06-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-10"
+              "title": "2025-06-13"
             }
           },
           {
-            "id": "a04681dc6a5c95d2",
+            "id": "8a6a894994daeb5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-todo/2025-06-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-18"
+            }
+          },
+          {
+            "id": "3bb573c5fa2aea5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +48,23 @@
               "icon": "lucide-file",
               "title": "2025-06-17"
             }
+          },
+          {
+            "id": "bc643225573ec6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "synchro/issues/issue-10866.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "issue-10866"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -208,17 +237,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a04681dc6a5c95d2",
+  "active": "bc643225573ec6d6",
   "lastOpenFiles": [
-    "synchro/issues/issue-10866.md",
     "daily-todo/2025-06-17.md",
-    "daily-todo/2025-06-10.md",
-    "daily-todo/2025-06-11.md",
-    "daily-todo/2025-06-12.md",
+    "daily-todo/2025-06-18.md",
+    "synchro/excalidraw/calc-automaticos.excalidraw.md",
+    "synchro/issues/issue-10866.md",
     "daily-todo/2025-06-13.md",
-    "daily-todo/2025-06-16.md",
-    "all-tasks.md",
+    "daily-todo/2025-06-12.md",
+    "daily-todo/2025-06-11.md",
     "daily-todo/2025-06-06.md",
+    "daily-todo/2025-06-16.md",
+    "daily-todo/2025-06-10.md",
+    "all-tasks.md",
+    "attachments/Pasted image 20250617090939.png",
     "daily-todo/2025-06-09.md",
     "synchro/issues/issue-10884.md",
     "Untitled.md",
@@ -231,14 +263,12 @@
     "synchro/treinamentos",
     "daily-todo/2025-05-21.md",
     "daily-todo/2025-05-23.md",
-    "synchro/excalidraw/calc-automaticos.excalidraw.md",
     "synchro/issues/issue-10688.md",
     "synchro/issues/issue-10779.md",
     "synchro/excalidraw/automacao.excalidraw.md",
     "synchro/excalidraw/calc-automaticos.excalidraw",
     "synchro/excalidraw/m410.excalidraw.md",
     "daily-todo/2025-05-27.md",
-    "daily-todo/2025-05-19.md",
     "attachments/Pasted image 20250519150528.png",
     "attachments/Pasted image 20250519145526.png",
     "attachments/Pasted image 20250519145457.png",
@@ -248,7 +278,6 @@
     "attachments/Pasted Image 20250415084424_606.png",
     "attachments/Pasted Image 20250403105956_889.png",
     "attachments/Pasted Image 20250403105956_885.png",
-    "attachments/Pasted Image 20250403105956_880.png",
     "synchro/excalidraw/refactor-users-low-fidelity.excalidraw",
     "me/guitarra",
     "templates",

@@ -11,4 +11,4 @@
 - [ ] Listar a quantidade de valores deletados via planilha
 	- `BeforeAfterJobExecutionListener` que monta essa string e as funcoes usadas para pegar os valores sao da propria lib
 - [ ] Alteração na nomeclatura do ItemInsertUpdate
-- [ ] Evidenciar que tem registro sendo deletado adicionando logs no processor
+- [ ] Evidenciar que tem registro sendo deletado adicionando logs ==Desejável==

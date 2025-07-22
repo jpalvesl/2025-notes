@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "90c55a6fc90695f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "dc841d285b612cfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-todo/2025-07-18.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-18"
+              "title": "New tab"
             }
           }
         ]
@@ -177,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +190,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dc841d285b612cfb",
   "lastOpenFiles": [
-    "synchro/issues/issue-10866.md",
+    "daily-todo/2025-07-21.md",
+    "daily-todo/2025-07-22.md",
+    "daily-todo/2025-07-05.md",
     "daily-todo/2025-07-18.md",
+    "all-tasks.md",
+    "synchro/issues/issue-10866.md",
     "daily-todo/2025-07-17.md",
     "daily-todo/2025-07-16.md",
-    "all-tasks.md",
     "Untitled 1.md",
     "attachments/Pasted image 20250717150012.png",
     "synchro/excalidraw/l200-replica.md",
@@ -210,7 +208,6 @@
     "Untitled 3.md",
     "daily-todo/2025-07-15.md",
     "daily-todo/2025-07-11.md",
-    "daily-todo/2025-07-05.md",
     "daily-todo/2025-07-10.md",
     "synchro/issues/issue-10925.md",
     "daily-todo/2025-07-09.md",
@@ -223,8 +220,6 @@
     "daily-todo/2025-07-03.md",
     "daily-todo/2025-06-25.md",
     "synchro/summary.md",
-    "synchro/excalidraw/lexpl-dados.excalidraw.md",
-    "daily-todo/2025-06-26.md",
     "attachments/Pasted image 20250617090939.png",
     "synchro/treinamentos/pes",
     "synchro/treinamentos",

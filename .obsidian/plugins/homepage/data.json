@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "all-tasks",
+      "value": "PriorityMatrix/Priority Matrix",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

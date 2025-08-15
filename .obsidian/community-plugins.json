@@ -4,10 +4,12 @@
   "obsidian-git",
   "obsidian-linter",
   "obsidian-excalidraw-plugin",
-  "dataview",
   "homepage",
   "templater-obsidian",
   "chord-sheets",
   "obsidian-jtab",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian42-brat",
+  "datacore",
+  "dataview"
 ]

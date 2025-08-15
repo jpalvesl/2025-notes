@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9a1f90b8bc43d0ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "403bd46bd6708255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-todo/2025-08-12.md",
-                "mode": "source",
+                "file": "PriorityMatrix/Priority Matrix.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-12"
+              "title": "Priority Matrix"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -190,39 +191,44 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "403bd46bd6708255",
   "lastOpenFiles": [
     "all-tasks.md",
+    "PriorityMatrix/Priority Matrix.md",
+    "daily-todo/2025-08-15.md",
     "daily-todo/2025-08-12.md",
+    "daily-todo/2025-08-04.md",
+    "Dummy Data/Critical_Security_Incident.md",
+    "Dummy Data/Enterprise_Client_Launch.md",
+    "Dummy Data/Daily_Admin_Tasks.md",
+    "Dummy Data/Low_Value_Activities.md",
+    "Dummy Data/Mixed_Weekly_Tasks.md",
+    "Dummy Data/Overdue_Compliance_Items.md",
+    "Dummy Data/Professional_Development.md",
+    "Dummy Data/Q3_Product_Strategy.md",
+    "Dummy Data/Test_Enterprise_Client.md",
+    "Priority Matrix Report - 2025-08-15.md",
+    "PriorityMatrix/priority_matrix_data.json",
+    "PriorityMatrix/PriorityMatrix.jsx",
+    "PriorityMatrix",
+    "Dummy Data",
+    "synchro/excalidraw/calc-automaticos.excalidraw.md",
+    "daily-todo/2025-08-14.md",
+    "Untitled 2.md",
     "daily-todo/2025-08-11.md",
+    "daily-todo/2025-08-13.md",
     "Untitled 1.md",
     "Untitled.md",
     "textinho.md",
     "daily-todo/2025-08-08.md",
     "daily-todo/2025-08-07.md",
     "daily-todo/2025-08-06.md",
-    "daily-todo/2025-08-05.md",
-    "daily-todo/2025-08-04.md",
-    "daily-todo/2025-07-29.md",
-    "synchro/excalidraw/calc-automaticos.excalidraw.md",
-    "daily-todo/2025-08-01.md",
     "attachments/Pasted image 20250801085618.png",
     "attachments/Pasted image 20250801084252.png",
-    "().md",
-    "daily-todo/2025-07-31.md",
-    "me/projetos/crud-produtos.md",
-    "daily-todo/2025-07-30.md",
-    "daily-todo/2025-07-28.md",
-    "daily-todo/2025-07-18.md",
-    "daily-todo/2025-07-25.md",
-    "daily-todo/2025-07-22.md",
-    "daily-todo/2025-07-21.md",
-    "daily-todo/2025-06-26.md",
-    "daily-todo/2025-07-24.md",
-    "daily-todo/2025-07-23.md",
     "attachments/Pasted image 20250717150012.png",
     "attachments/Pasted image 20250717150229.png",
     "attachments/Pasted image 20250617090939.png",
@@ -236,10 +242,6 @@
     "attachments/Pasted image 20250519144144.png",
     "synchro/excalidraw/refactor-users-low-fidelity.excalidraw",
     "me/guitarra",
-    "templates",
-    "daily-todo",
-    "daily-todo",
-    "me/dataview",
-    "me/projetos/tecnologia"
+    "templates"
   ]
 }

@@ -1,0 +1,138 @@
+{
+  "userConfig": {
+    "sections": {
+      "doFirst": {
+        "title": "🔥 Do First",
+        "subtitle": "Urgent & Important",
+        "description": "Crisis situations, urgent problems, deadline-driven projects",
+        "color": "#ff4757",
+        "position": {
+          "row": 0,
+          "col": 0
+        },
+        "propertyRules": {
+          "enabled": true,
+          "propertyName": "eisenhower_status",
+          "propertyValue": "urgent_important"
+        },
+        "taskRules": {
+          "enabled": true,
+          "tagName": "urgent-important"
+        }
+      },
+      "schedule": {
+        "title": "📅 Schedule",
+        "subtitle": "Not Urgent & Important",
+        "description": "Strategic planning, personal development, prevention activities",
+        "color": "#ffa502",
+        "position": {
+          "row": 0,
+          "col": 1
+        },
+        "propertyRules": {
+          "enabled": true,
+          "propertyName": "eisenhower_status",
+          "propertyValue": "not_urgent_important"
+        },
+        "taskRules": {
+          "enabled": true,
+          "tagName": "schedule"
+        }
+      },
+      "delegate": {
+        "title": "👥 Delegate",
+        "subtitle": "Urgent & Not Important",
+        "description": "Interruptions, some emails, some phone calls, some meetings",
+        "color": "#2ed573",
+        "position": {
+          "row": 1,
+          "col": 0
+        },
+        "propertyRules": {
+          "enabled": true,
+          "propertyName": "eisenhower_status",
+          "propertyValue": "urgent_not_important"
+        },
+        "taskRules": {
+          "enabled": true,
+          "tagName": "delegate"
+        }
+      },
+      "eliminate": {
+        "title": "🗑️ Don't Do",
+        "subtitle": "Not Urgent & Not Important",
+        "description": "Time wasters, trivia, busy work, some emails, some phone calls",
+        "color": "#747d8c",
+        "position": {
+          "row": 1,
+          "col": 1
+        },
+        "propertyRules": {
+          "enabled": true,
+          "propertyName": "eisenhower_status",
+          "propertyValue": "not_urgent_not_important"
+        },
+        "taskRules": {
+          "enabled": true,
+          "tagName": "eliminate"
+        }
+      },
+      "___entrada_1755288805807": {
+        "title": "📬 Entrada",
+        "subtitle": "New Quadrant",
+        "description": "Configure this quadrant's rules",
+        "color": "#73af95",
+        "position": {
+          "row": 2,
+          "col": 0
+        },
+        "propertyRules": {
+          "enabled": true,
+          "propertyName": "___entrada_status",
+          "propertyValue": "___entrada"
+        },
+        "taskRules": {
+          "enabled": true,
+          "tagName": "___entrada"
+        }
+      }
+    },
+    "scheduling": {
+      "datePropertyName": "due_date",
+      "recurringPropertyName": "recurring",
+      "enableScheduling": true,
+      "enableRecurring": true
+    },
+    "display": {
+      "showTasks": true,
+      "showNotes": false,
+      "showCompleted": true,
+      "viewMode": "matrix",
+      "sortBy": "priority",
+      "filterBy": "all",
+      "maxItemsPerSection": 10,
+      "compactMode": false,
+      "showDescriptions": false,
+      "enableAnimations": true,
+      "showMetrics": true
+    },
+    "excludedFolders": [
+      "templates",
+      "archive",
+      ".obsidian"
+    ],
+    "ui": {
+      "showSettings": false,
+      "showSearch": false,
+      "showStats": false,
+      "activeTab": "sections",
+      "containerMaxWidth": 1200,
+      "title": "Matriz de prioridade",
+      "searchQuery": "",
+      "selectedFilter": "all",
+      "sortBy": "priority",
+      "showNotifications": true,
+      "notificationPosition": "top-right"
+    }
+  }
+}

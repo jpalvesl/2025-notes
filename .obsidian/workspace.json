@@ -33,6 +33,7 @@
       {
         "id": "7fda8966e21f7070",
         "type": "tabs",
+        "dimension": 65.00994035785288,
         "children": [
           {
             "id": "6cc51421eac22a3c",
@@ -75,11 +76,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "6f7bcd636ca27864",
+        "type": "tabs",
+        "dimension": 34.990059642147116,
+        "children": [
+          {
+            "id": "a4a20fdb54f37da2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -143,23 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synchro/issues/issue-10727.md",
+                "file": "PriorityMatrix/Priority Matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of issue-10727"
-            }
-          },
-          {
-            "id": "a4a20fdb54f37da2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Priority Matrix"
             }
           },
           {
@@ -173,11 +180,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

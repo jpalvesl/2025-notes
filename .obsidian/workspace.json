@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1f90b8bc43d0ec",
+        "id": "5734a2c7a0e9e031",
         "type": "tabs",
         "children": [
           {
-            "id": "403bd46bd6708255",
+            "id": "2c3aab6dc8133a3f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Priority Matrix"
             }
@@ -33,7 +35,7 @@
       {
         "id": "7fda8966e21f7070",
         "type": "tabs",
-        "dimension": 65.00994035785288,
+        "dimension": 50.28985507246377,
         "children": [
           {
             "id": "6cc51421eac22a3c",
@@ -80,7 +82,7 @@
       {
         "id": "6f7bcd636ca27864",
         "type": "tabs",
-        "dimension": 34.990059642147116,
+        "dimension": 49.71014492753623,
         "children": [
           {
             "id": "a4a20fdb54f37da2",
@@ -96,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 362.5,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -175,16 +178,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 624.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,13 +206,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "403bd46bd6708255",
+  "active": "2c3aab6dc8133a3f",
   "lastOpenFiles": [
-    "all-tasks.md",
+    "daily-todo/2025-08-18.md",
     "PriorityMatrix/Priority Matrix.md",
-    "daily-todo/2025-08-15.md",
+    "Untitled 2.md",
     "daily-todo/2025-08-12.md",
     "daily-todo/2025-08-04.md",
+    "daily-todo/2025-08-15.md",
+    "all-tasks.md",
     "Dummy Data/Critical_Security_Incident.md",
     "Dummy Data/Enterprise_Client_Launch.md",
     "Dummy Data/Daily_Admin_Tasks.md",
@@ -226,7 +231,6 @@
     "Dummy Data",
     "synchro/excalidraw/calc-automaticos.excalidraw.md",
     "daily-todo/2025-08-14.md",
-    "Untitled 2.md",
     "daily-todo/2025-08-11.md",
     "daily-todo/2025-08-13.md",
     "Untitled 1.md",
@@ -234,7 +238,6 @@
     "textinho.md",
     "daily-todo/2025-08-08.md",
     "daily-todo/2025-08-07.md",
-    "daily-todo/2025-08-06.md",
     "attachments/Pasted image 20250801085618.png",
     "attachments/Pasted image 20250801084252.png",
     "attachments/Pasted image 20250717150012.png",

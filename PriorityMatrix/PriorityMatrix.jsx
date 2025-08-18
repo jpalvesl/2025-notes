@@ -3094,7 +3094,7 @@ function PriorityMatrix() {
                 {COMMON_CONSTANTS.ICONS.inbox}
               </div>
               <div style={{ color: theme.textMuted, fontSize: COMMON_CONSTANTS.FONT_SIZES.medium }}>
-                Drop items here to organize
+                Drop Items here to organize
               </div>
             </div>
           ) : (

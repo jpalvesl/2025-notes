@@ -36,7 +36,7 @@
         },
         "taskRules": {
           "enabled": true,
-          "tagName": "schedule"
+          "tagName": "not-urgent-important"
         }
       },
       "delegate": {
@@ -55,7 +55,7 @@
         },
         "taskRules": {
           "enabled": true,
-          "tagName": "delegate"
+          "tagName": "urgent-not-important"
         }
       },
       "eliminate": {
@@ -74,13 +74,13 @@
         },
         "taskRules": {
           "enabled": true,
-          "tagName": "eliminate"
+          "tagName": "not-urgent-not-important"
         }
       },
       "___entrada_1755288805807": {
-        "title": "📬 Entrada",
-        "subtitle": "New Quadrant",
-        "description": "Configure this quadrant's rules",
+        "title": "📬 Inbox",
+        "subtitle": "To organize.",
+        "description": "Organize when you have time to do.",
         "color": "#73af95",
         "position": {
           "row": 2,
@@ -89,11 +89,11 @@
         "propertyRules": {
           "enabled": true,
           "propertyName": "___entrada_status",
-          "propertyValue": "___entrada"
+          "propertyValue": "entrada"
         },
         "taskRules": {
           "enabled": true,
-          "tagName": "___entrada"
+          "tagName": "entrada"
         }
       }
     },
@@ -106,7 +106,7 @@
     "display": {
       "showTasks": true,
       "showNotes": false,
-      "showCompleted": true,
+      "showCompleted": false,
       "viewMode": "matrix",
       "sortBy": "priority",
       "filterBy": "all",

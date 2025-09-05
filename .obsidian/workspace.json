@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -208,14 +207,15 @@
   },
   "active": "2c3aab6dc8133a3f",
   "lastOpenFiles": [
-    "03-synchro/excalidraw/gia-st-modais-em-lote.excalidraw.md",
-    "01-daily-todo/2025-09-04.md",
+    "01-daily-todo/2025-09-05.md",
     "PriorityMatrix/Priority Matrix.md",
+    "01-daily-todo/2025-09-01.md",
+    "01-daily-todo/2025-09-02.md",
+    "01-daily-todo/2025-09-04.md",
+    "03-synchro/excalidraw/gia-st-modais-em-lote.excalidraw.md",
     "attachments/Pasted Image 20250904083328_335.png",
     "attachments/Pasted Image 20250904083242_042.png",
     "01-daily-todo/2025-09-03.md",
-    "01-daily-todo/2025-09-02.md",
-    "01-daily-todo/2025-09-01.md",
     "03-synchro/excalidraw/possiveis-solucoes-ana.excalidraw.md",
     "03-synchro/excalidraw/lexpl-dados.excalidraw.md",
     "03-synchro/excalidraw/l200-replica.md",

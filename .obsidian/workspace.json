@@ -35,7 +35,7 @@
       {
         "id": "7fda8966e21f7070",
         "type": "tabs",
-        "dimension": 65.27363184079601,
+        "dimension": 59.15985997666277,
         "children": [
           {
             "id": "058a509f04c05ee1",
@@ -82,7 +82,7 @@
       {
         "id": "6f7bcd636ca27864",
         "type": "tabs",
-        "dimension": 34.72636815920398,
+        "dimension": 40.84014002333723,
         "children": [
           {
             "id": "a4a20fdb54f37da2",
@@ -207,11 +207,12 @@
   },
   "active": "2c3aab6dc8133a3f",
   "lastOpenFiles": [
-    "01-daily-todo/2025-09-29.md",
+    "01-daily-todo/2025-10-01.md",
     "01-daily-todo/2025-09-30.md",
-    "01-daily-todo/2025-09-25.md",
-    "PriorityMatrix/Priority Matrix.md",
+    "01-daily-todo/2025-09-29.md",
     "01-daily-todo/2025-09-26.md",
+    "PriorityMatrix/Priority Matrix.md",
+    "01-daily-todo/2025-09-25.md",
     "01-daily-todo/2025-09-24.md",
     "01-daily-todo/2025-09-19.md",
     "01-daily-todo/2025-09-12.md",
@@ -232,7 +233,6 @@
     "01-daily-todo/2025-09-08.md",
     "03-synchro/sem-issue.md",
     "03-synchro/summary.md",
-    "Untitled 2.md",
     "attachments/Pasted Image 20250904083328_335.png",
     "attachments/Pasted Image 20250904083242_042.png",
     "attachments/Pasted Image 20250902155159_942.png",

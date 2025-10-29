@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -207,9 +208,10 @@
   },
   "active": "2c3aab6dc8133a3f",
   "lastOpenFiles": [
+    "01-daily-todo/2025-10-29.md",
+    "PriorityMatrix/Priority Matrix.md",
     "01-daily-todo/2025-10-07.md",
     "01-daily-todo/2025-10-28.md",
-    "PriorityMatrix/Priority Matrix.md",
     "03-synchro/excalidraw/calc-automaticos.excalidraw.md",
     "01-daily-todo/2025-10-27.md",
     "01-daily-todo/2025-10-23.md",
@@ -233,7 +235,6 @@
     "01-daily-todo/2025-10-10.md",
     "01-daily-todo/2025-10-06.md",
     "03-synchro/issues/issue-11182.md",
-    "01-daily-todo/2025-10-09.md",
     "attachments/Pasted Image 20250904083328_335.png",
     "attachments/Pasted Image 20250904083242_042.png",
     "attachments/Pasted Image 20250902155159_942.png",

@@ -10,7 +10,6 @@
           {
             "id": "2c3aab6dc8133a3f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Priority Matrix"
             }
@@ -98,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -208,10 +205,17 @@
   },
   "active": "2c3aab6dc8133a3f",
   "lastOpenFiles": [
+    "01-daily-todo/2025-11-03.md",
+    "01-daily-todo/2025-10-31.md",
+    "01-daily-todo/2025-10-30.md",
     "01-daily-todo/2025-10-29.md",
-    "PriorityMatrix/Priority Matrix.md",
-    "01-daily-todo/2025-10-07.md",
     "01-daily-todo/2025-10-28.md",
+    "PriorityMatrix/Priority Matrix.md",
+    "Untitled 2.md",
+    "03-synchro/excalidraw/jscp-mensal.excalidraw.md",
+    "03-synchro/excalidraw/l200-replica.md",
+    "03-synchro/excalidraw/jscp-mensal.md",
+    "01-daily-todo/2025-10-07.md",
     "03-synchro/excalidraw/calc-automaticos.excalidraw.md",
     "01-daily-todo/2025-10-27.md",
     "01-daily-todo/2025-10-23.md",
@@ -228,13 +232,6 @@
     "03-synchro/issues/issue-10752.md",
     "03-synchro/chamados",
     "03-synchro/sem-issue.md",
-    "Untitled 2.md",
-    "01-daily-todo/2025-10-14.md",
-    "03-synchro/issues/issue-10925.md",
-    "01-daily-todo/2025-10-13.md",
-    "01-daily-todo/2025-10-10.md",
-    "01-daily-todo/2025-10-06.md",
-    "03-synchro/issues/issue-11182.md",
     "attachments/Pasted Image 20250904083328_335.png",
     "attachments/Pasted Image 20250904083242_042.png",
     "attachments/Pasted Image 20250902155159_942.png",

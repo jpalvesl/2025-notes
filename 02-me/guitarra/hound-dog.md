@@ -1,0 +1,8 @@
+4A 
+2D
+2A
+1E
+1D
+2A 
+
+1 VAZIO -> ==DE NOVO==

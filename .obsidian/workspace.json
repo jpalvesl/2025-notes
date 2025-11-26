@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -274,10 +273,13 @@
   },
   "active": "67cfb472002d88b9",
   "lastOpenFiles": [
-    "03-synchro/issues/issue-10820.md",
+    "01-daily-todo/2025-11-26.md",
+    "01-daily-todo/2025-10-31.md",
+    "01-daily-todo/2025-11-07.md",
     "03-synchro/excalidraw/calc-automaticos.excalidraw.md",
-    "01-daily-todo/2025-11-25.md",
     "03-synchro/excalidraw/controle-vencimentos.excalidraw.md",
+    "01-daily-todo/2025-11-25.md",
+    "03-synchro/issues/issue-10820.md",
     "PriorityMatrix/Priority Matrix.md",
     "01-daily-todo/2025-11-17.md",
     "01-daily-todo/2025-11-24.md",
@@ -295,12 +297,9 @@
     "03-synchro/excalidraw/possiveis-solucoes-ana.excalidraw.md",
     "01-daily-todo/2025-11-13.md",
     "03-synchro/tests/9944.md",
-    "01-daily-todo/2025-11-07.md",
     "01-daily-todo/2025-11-11.md",
     "01-daily-todo/2025-11-12.md",
-    "01-daily-todo/2025-11-10.md",
     "attachments/Pasted image 20251111131344.png",
-    "03-synchro/excalidraw/8936.excalidraw.md",
     "03-synchro/chamados",
     "attachments/Pasted Image 20250904083328_335.png",
     "attachments/Pasted Image 20250904083242_042.png",

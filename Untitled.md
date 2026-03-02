@@ -29,3 +29,8 @@
 - Podemos fazer carteirinha do sesc
 
 bristol the time
+
+---
+
+EVOLUIR O CI PRA BLOQUEAR INSTRUCOES NAO SUPORTADAS
+NAO EXISTE ROWID e column engino

@@ -1,0 +1,3 @@
+- Raio-x CDV
+	- temos 3 apresentacoes bem parecidas, devo deixar todas ou só a com mais conteudo?
+- Se nao renomear as fotos colocar no historico

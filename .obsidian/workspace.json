@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Priority Matrix"
             }
+          },
+          {
+            "id": "b0c2710a2d8ec7bd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "espec-11392.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "espec-11392"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\" Apuração para empresas Rurais.\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f7bcd636ca27864",
@@ -98,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.51103591918945
+    "width": 329.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "16ab42a106543ab0",
@@ -172,27 +191,17 @@
             }
           },
           {
-            "id": "bed2f93ef189da7b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "9c70ca07a56459f8",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -201,6 +210,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -209,51 +222,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f9555cbe489f547",
+  "active": "b0c2710a2d8ec7bd",
   "lastOpenFiles": [
-    "01-daily-todo/2026-03-04.md",
-    "Untitled 1.md",
-    "01-daily-todo/2026-03-03.md",
-    "01-daily-todo/2026-02-27.md",
-    "01-daily-todo/2026-03-02.md",
+    "01-daily-todo/2026-04-22.md",
+    "espec-11392.md",
     "PriorityMatrix/Priority Matrix.md",
-    "03-synchro/excalidraw/calc-automaticos.excalidraw.md",
-    "01-daily-todo/2026-02-25.md",
-    "01-daily-todo/2026-02-10.md",
-    "01-daily-todo/2026-02-11.md",
-    "01-daily-todo/2026-02-16.md",
-    "01-daily-todo/2026-02-24.md",
-    "01-daily-todo/2026-01-30.md",
-    "01-daily-todo/2026-02-26.md",
-    "01-daily-todo/2026-02-23.md",
-    "01-daily-todo/2026-02-20.md",
-    "03-synchro/issues/issue-11546.md",
+    "03-synchro/issues/issue-11392.md",
     "Untitled.md",
-    "01-daily-todo/2026-02-19.md",
-    "01-daily-todo/2026-02-18.md",
-    "01-daily-todo/2026-02-17.md",
-    "01-daily-todo/2026-02-13.md",
-    "01-daily-todo/2026-02-06.md",
-    "01-daily-todo/2026-02-12.md",
+    "03-synchro/documentacao/overview-bases.md",
+    "03-synchro/documentacao/automacao.md",
+    "all-tasks.md",
+    "01-daily-todo/2026-02-02.md",
+    "01-daily-todo/2026-04-02.md",
+    "01-daily-todo/2026-04-16.md",
+    "03-synchro/chamados/3374385.md",
+    "03-synchro/sem-issue.md",
+    "03-synchro/regressao-v_documento_item_impostos_cbs_ibs.md",
     "03-synchro/subir-versao.md",
-    "01-daily-todo/2026-02-09.md",
+    "mrs.md",
+    "organizacao.md",
+    "README.md",
+    "03-synchro/issues/issue-10884.md",
+    "03-synchro/issues/issue-10902.md",
+    "03-synchro/issues/issue-10925.md",
+    "03-synchro/issues/issue-11157.md",
+    "03-synchro/issues/issue-11164.md",
+    "03-synchro/issues/issue-11182.md",
+    "03-synchro/issues/issue-11380.md",
+    "03-synchro/issues/issue-11599.md",
+    "attachments/Pasted image 20260415103722.png",
+    "attachments/Pasted image 20260414165710.png",
+    "attachments/Pasted image 20260407113923.png",
+    "attachments/Pasted image 20260407113450.png",
+    "attachments/Pasted image 20260407113427.png",
+    "03-synchro/excalidraw/libs-alteradas.excalidraw",
+    "attachments/Pasted image 20260311155546.png",
     "attachments/Pasted Image 20260112132836_335.png",
     "attachments/Pasted Image 20260112132433_913.png",
     "attachments/Pasted Image 20260112132247_966.png",
     "attachments/Pasted Image 20260112131749_641.png",
-    "attachments/Pasted Image 20260112131732_259.png",
-    "attachments/Pasted Image 20260112131116_700.png",
-    "attachments/Pasted Image 20260112131013_405.png",
-    "attachments/Pasted Image 20260112101527_131.png",
-    "attachments/Pasted Image 20260112101148_828.png",
-    "attachments/Pasted Image 20260112101109_560.png",
     "03-synchro/chamados",
     "attachments/rename.sh",
     "PriorityMatrix/priority_matrix_data.json",
@@ -262,7 +272,6 @@
     "Dummy Data",
     "03-synchro/treinamentos/pes",
     "03-synchro/treinamentos",
-    "synchro/excalidraw/calc-automaticos.excalidraw",
-    "synchro/excalidraw/refactor-users-low-fidelity.excalidraw"
+    "synchro/excalidraw/calc-automaticos.excalidraw"
   ]
 }

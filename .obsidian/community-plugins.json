@@ -6,8 +6,8 @@
   "obsidian-excalidraw-plugin",
   "homepage",
   "templater-obsidian",
-  "table-editor-obsidian",
   "obsidian42-brat",
   "datacore",
-  "dataview"
+  "dataview",
+  "table-editor-obsidian"
 ]
